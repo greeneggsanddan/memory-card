@@ -1,2 +1,2 @@
 # memory-card
-[Live Demo](https://main--visionary-otter-e35793.netlify.app/)
+[Live Demo](https://react-pokememory.netlify.app/)
